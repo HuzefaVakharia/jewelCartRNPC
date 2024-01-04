@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799699953689",
+    "firebase_url": "https://walkheroyt-1acd4-default-rtdb.firebaseio.com",
+    "project_id": "walkheroyt-1acd4",
+    "storage_bucket": "walkheroyt-1acd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799699953689:android:e626606a2004d58dfc2288",
+        "android_client_info": {
+          "package_name": "com.wa2goose.walkheroyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799699953689-63jdlcd5rvalgpq0gdc0fk98nksljdlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrE5NOH7w-1gqlxT1K7A9JRNJrwAWbVM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799699953689-63jdlcd5rvalgpq0gdc0fk98nksljdlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799699953689-tj7ssseh628pob6u98ffst0v85cp9jp3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wa2goose.walkheroyt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

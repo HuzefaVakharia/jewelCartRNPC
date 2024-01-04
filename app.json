@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "jewelCartRNPC",
+    "name": "React Native JC",
     "slug": "jewelCartRNPC",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/jewelCartSplash.png",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
@@ -18,13 +18,23 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/jewelCart-adaptiveIcon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.huzefa_vakhariya.jewelCartRNPC"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "acebc225-cf19-4a7f-b866-f9162d1ead81"
+      }
+    },
+    "plugins": [
+      "expo-localization"
+    ]
   }
 }
